@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Thu Mar 11 07:59:36 EST 2021
+#Fri Mar 12 07:50:24 EST 2021
 target4.type=ClassTarget
 class.AntWorld.superclass=greenfoot.World
 target3.height=50
@@ -12,10 +12,10 @@ target4.name=CrabWorld
 readme.editor.height=581
 readme.width=47
 class.TurtleWorld.superclass=greenfoot.World
-editor.fx.0.width=0
+editor.fx.0.width=539
 target1.height=50
 class.Bullet.superclass=
-mainWindow.width=808
+mainWindow.width=820
 class.WhiteKey.superclass=Key
 class.WombatWorld.superclass=greenfoot.World
 target3.editor.y=22
@@ -36,9 +36,9 @@ target2.editor.height=610
 class.AntHill.superclass=greenfoot.Actor
 class.Asteroid.superclass=
 target1.width=80
-editor.fx.0.y=0
+editor.fx.0.y=20
 target2.typeParameters=
-editor.fx.0.x=0
+editor.fx.0.x=893
 class.CrabWorld.image=sand.jpg
 class.Lobster.superclass=Animal
 target3.showInterface=false
@@ -83,10 +83,10 @@ target2.y=10
 target2.x=160
 class.MyWorld.superclass=greenfoot.World
 mainWindow.y=59
-mainWindow.x=82
+mainWindow.x=207
 target1.y=70
 target1.x=160
-editor.fx.0.height=0
+editor.fx.0.height=620
 target2.editor.width=818
 target4.editor.y=58
 target4.editor.x=922
