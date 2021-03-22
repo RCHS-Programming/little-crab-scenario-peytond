@@ -10,6 +10,7 @@ dependency3.type=UsesDependency
 class.Crab.superclass=greenfoot.Actor
 target1.editor.y=30
 target1.editor.x=368
+target4.name=Worm
 target4.typeParameters=
 readme.width=47
 readme.editor.height=581
