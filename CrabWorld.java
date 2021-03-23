@@ -9,6 +9,9 @@ public class CrabWorld extends World
     public CrabWorld() 
     {
         super(560, 560, 1);
+        
+        showText("Score : ", 50, 500);
+        
         addObject(new Crab(), 150, 100);
         addObject(new Lobster(), 400, 100);
         addObject(new Lobster(), 400, 300);
