@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Lobster here.
  * 
- * @author Peyton D
+ * @author Peyton Dunn
  * @version March 16 version 1
  */
 public class Lobster extends Actor
